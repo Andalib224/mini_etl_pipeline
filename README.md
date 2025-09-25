@@ -131,11 +131,11 @@ employee.log
 ## 🚀 How to Run
 ```
 # Clone repository
-git clone https://github.com/your-username/mini-elt-pipeline.git
+git clone https://github.com/Andalib224/mini_etl_pipeline.git
 cd mini-elt-pipeline
 
 # Run the pipeline
-python3 pipeline.py
+python3 etl.py
 ```
 
 ## 📖 Concepts Covered
