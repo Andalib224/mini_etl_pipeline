@@ -1,0 +1,18 @@
+2025-09-25 11:00:20,013 - INFO - Pipeline has started.
+2025-09-25 11:00:20,013 - INFO - Processing file: employees.csv
+2025-09-25 11:00:20,014 - INFO - Duplicate record skipped.
+2025-09-25 11:00:20,014 - INFO - Duplicate record skipped.
+2025-09-25 11:00:20,014 - WARNING - Skipped record: Invalid salary : 0, Record {'emp_id': '103', 'name': 'Charlie', 'department': 'HR', 'salary': '0'}
+2025-09-25 11:00:20,014 - WARNING - Skipped record: Missing employee name, Record: {'emp_id': '104', 'name': '', 'department': 'IT', 'salary': '50000'}
+2025-09-25 11:00:20,014 - ERROR - Skipped record: Invalid name : 12345, Record: {'emp_id': '105', 'name': '12345', 'department': 'Finance', 'salary': '65000'}
+2025-09-25 11:00:20,014 - WARNING - Skipped record: Missing employee department, Record: {'emp_id': '106', 'name': 'Eva', 'department': '', 'salary': '48000'}
+2025-09-25 11:00:20,014 - ERROR - Skipped record: Invalid Salary: abc, Record: {'emp_id': '107', 'name': 'Frank', 'department': 'IT', 'salary': 'abc'}
+2025-09-25 11:00:20,014 - INFO - Duplicate record skipped.
+2025-09-25 11:00:20,014 - INFO - Duplicate record skipped.
+2025-09-25 11:00:20,014 - WARNING - Skipped record: Missing employee salary, Record: {'emp_id': '110', 'name': 'Henry', 'department': 'Finance', 'salary': ''}
+2025-09-25 11:00:20,014 - INFO - Duplicate record skipped.
+2025-09-25 11:00:20,014 - ERROR - Skipped record: Invalid Department: 123, Record: {'emp_id': '112', 'name': 'John', 'department': '123', 'salary': '45000'}
+2025-09-25 11:00:20,014 - ERROR - Skipped record: Invalid Salary: -3000, Record: {'emp_id': '113', 'name': 'Kate', 'department': 'IT', 'salary': '-3000'}
+2025-09-25 11:00:20,014 - INFO - Duplicate record skipped.
+2025-09-25 11:00:20,014 - INFO - Extracted and clean data are saving to json file.
+2025-09-25 11:00:20,020 - INFO - Pipeline completed. File saved to json document.

@@ -1,0 +1,38 @@
+[
+    {
+        "emp_id": "101",
+        "name": "Alice",
+        "department": "IT",
+        "salary": "60000"
+    },
+    {
+        "emp_id": "102",
+        "name": "Bob",
+        "department": "FINANCE",
+        "salary": "55000"
+    },
+    {
+        "emp_id": "108",
+        "name": "Alice",
+        "department": "IT",
+        "salary": "60000"
+    },
+    {
+        "emp_id": "109",
+        "name": "Grace",
+        "department": "MARKETING",
+        "salary": "72000"
+    },
+    {
+        "emp_id": "111",
+        "name": "Isabel",
+        "department": "FINANCE",
+        "salary": "58000"
+    },
+    {
+        "emp_id": "114",
+        "name": "Liam",
+        "department": "FINANCE",
+        "salary": "62000"
+    }
+]

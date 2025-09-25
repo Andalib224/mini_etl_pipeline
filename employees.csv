@@ -1,0 +1,17 @@
+emp_id,name,department,salary
+101,Alice,IT,60000
+102,Bob,Finance,55000
+103,Charlie,HR,0
+104,,IT,50000
+105,12345,Finance,65000
+106,Eva,,48000
+107,Frank,IT,abc
+108,Alice,IT,60000
+109,Grace,Marketing,72000
+110,Henry,Finance,
+111,Isabel,Finance,58000
+112,John,123,45000
+113,Kate,IT,-3000
+114,Liam,Finance,62000
+114,Liam,Finance,62000
+114,Liam,Finance,62000
